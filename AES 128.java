@@ -2,7 +2,7 @@
 이름 : 고동협
 학번 : 2017108247
 학과 : 컴퓨터공학과
-*/
+*/ 
 
 public Key getAESKey() throw Exception {
     String iv;
